@@ -50,7 +50,7 @@
 <h3 align="center">Software Known:</h3><hr>  
 <p align="center">   
 <a href="https://windows.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="windows" width="40" height="40"/></a>
 <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> </a>
@@ -58,9 +58,9 @@
  <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mriganka56" alt="shreedatri03" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mriganka56" alt="mriganka56" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriganka56&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="shreedatri03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriganka56&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="mriganka56" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mriganka56&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="mriganka56" /></p>
 

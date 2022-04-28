@@ -51,7 +51,7 @@
 <p align="center">   
 <a href="https://windows.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
- <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>
 <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> </a>

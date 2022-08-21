@@ -1,5 +1,6 @@
-<h1 align="center">Welcome to Mriganka's Profile</h1>
+<h1 align="center">Welcome to Mriganka's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <h3 align="center">An Aspiring Full Stack Web Developer</h3>
+<h3 align="center"><a href="https://github.com/mriganka56/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=00FF00&background=EFFF4F00&center=true&width=500&height=45&lines=A+Coding+Enthusiast;Learning+Web+App+Development;Learning+Backend+Development;Learning+Frontend+Development;A+Quick+Learner+interested+in+Technology!"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriganka56&label=Profile%20views&color=0e75b6&style=flat" alt="mriganka56" /> </p>
 

@@ -70,10 +70,12 @@
 <h3 align="left">Github Summary:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mriganka56" alt="mriganka56" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriganka56&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="mriganka56" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriganka56&show_icons=true&theme=github_dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="mriganka56"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mriganka56&show_icons=true&theme=github_dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="mriganka56"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mriganka56&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="mriganka56" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriganka56&theme=dark" alt="smriganka56" /></p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mriganka56&theme=material-palenight)](https://github.com/mriganka56/github-readme-activity-graph)
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mriganka56&theme=dark" alt="mriganka56"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=mriganka56&theme=react-dark" />
+</p>

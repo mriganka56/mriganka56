@@ -1,13 +1,13 @@
-<h1 align="center">Welcome to Mriganka's Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h3 align="center">An Aspiring Full Stack Web Developer</h3>
+<h1 align="center">Hey it's Mriganka's Profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h3 align="center">A Software Engineer and a Passionate Content Creator!</h3>
 <h3 align="center"><a href="https://github.com/mriganka56/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=00FF00&background=EFFF4F00&center=true&width=500&height=45&lines=A+Coding+Enthusiast;Learning+Web+App+Development;Learning+Backend+Development;Learning+Frontend+Development;A+Quick+Learner+interested+in+Technology!"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriganka56&label=Profile%20views&color=0e75b6&style=flat" alt="mriganka56" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mriganka-paul-240683224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriganka56" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrigankapaul2802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mriganka56" height="30" width="40" /></a>
-<a href="mailto:mrigankapiembca2023@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/></a>
+<a href="https://www.youtube.com/@mrcodees/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/35d4833d-1e5d-407e-b621-74b79e78b418" alt="mriganka56" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mriganka-p-a95ba6313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriganka56" height="30" width="40" /></a>
+<a href="mailto:dtmriganka@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/></a>
 
 <h1 align="left">Skills :-</h1>
 <h3 align="left">Languages Known:</h3>
@@ -42,7 +42,7 @@
 
 <h3 align="left">Framework and Libraries Known:</h3>
 <p align="left"> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<!--a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a--> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
 
 <!--a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a--> 
@@ -76,5 +76,5 @@
 <p>
 <a href="https://holopin.io/@mriganka56"><img src="https://holopin.io/api/user/board?user=mriganka56"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mriganka56&theme=dark" alt="mriganka56"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=mriganka56&theme=react-dark" />
+<!--img src="https://activity-graph.herokuapp.com/graph?username=mriganka56&theme=react-dark" /-->
 </p>
